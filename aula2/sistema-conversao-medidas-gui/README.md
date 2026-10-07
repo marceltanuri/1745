@@ -27,6 +27,12 @@ Esse é o ganho de separar a regra de negócio da interface com o usuário.
 3. Digite o valor: o resultado é atualizado a cada tecla.
 4. O botão **Inverter unidades** troca origem e destino.
 
+## Como abrir no IntelliJ
+
+Use **File > Open** e selecione esta pasta (não a pasta `aula2`). O projeto já vem configurado
+(`.idea/` e `.iml`), com `src` como código e `test` como testes. Se o IntelliJ pedir o SDK,
+escolha um JDK 25. Já existem duas configurações de execução prontas: **Main** e **Testes**.
+
 ## Como compilar e executar
 
 ```bash

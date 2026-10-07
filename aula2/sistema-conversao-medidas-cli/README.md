@@ -28,6 +28,12 @@ O `deslocamento` só é diferente de zero nas temperaturas (Fahrenheit e Kelvin)
 
 Categorias suportadas: Comprimento, Massa, Volume, Área, Temperatura, Tempo e Velocidade.
 
+## Como abrir no IntelliJ
+
+Use **File > Open** e selecione esta pasta (não a pasta `aula2`). O projeto já vem configurado
+(`.idea/` e `.iml`), com `src` como código e `test` como testes. Se o IntelliJ pedir o SDK,
+escolha um JDK 25. Já existem duas configurações de execução prontas: **Main** e **Testes**.
+
 ## Como compilar e executar
 
 ```bash

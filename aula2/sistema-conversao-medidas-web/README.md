@@ -40,6 +40,12 @@ e a página que roda no navegador (pasta `public`).
 
 Em caso de erro a API responde com status `400` e `{"erro":"mensagem"}`.
 
+## Como abrir no IntelliJ
+
+Use **File > Open** e selecione esta pasta (não a pasta `aula2`). O projeto já vem configurado
+(`.idea/` e `.iml`), com `src` como código e `test` como testes. Se o IntelliJ pedir o SDK,
+escolha um JDK 25. Já existem duas configurações de execução prontas: **Main** e **Testes**.
+
 ## Como compilar e executar
 
 Execute **a partir desta pasta**, pois o servidor lê os arquivos da pasta `public` pelo caminho relativo:
